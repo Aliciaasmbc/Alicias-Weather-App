@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-image: url("sunset.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: #7c7c7c;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+  margin: 0;
+}
+ul {
+  margin: 0 0 20px;
+  padding: 0;
+}
+li {
+  color: #7c7c7c;
+  font-size: 16px;
+  font-weight: 100;
+  height: 19px;
+  line-height: 2;
+  list-style: none;
+}
+
+.card {
+  border: 1px solid #7c7c7c;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.4);
+}
+.search-form {
+  margin-bottom: 19px;
+}
+.weather-icon {
+  height: 85px;
+  width: 85px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.temp {
+  color: black;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 1px;
+}
+
+.units {
+  position: relative;
+  top: -32px;
+}
+a:link {
+  text-decoration: none;
+}
+#temp {
+  color: black;
+}
+#color {
+  color: #7c7c7c;
+}
+
+.morning {
+  font-weight: 800;
+}
+.stats {
+  font-size: 12px;
+}
