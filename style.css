@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-image: url("sunset.jpg");
+  background-image: url("src/images/sunset.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
