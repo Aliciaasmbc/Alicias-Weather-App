@@ -68,3 +68,7 @@ a:link {
 .stats {
   font-size: 12px;
 }
+.footer {
+  margin: 0 auto;
+  text-align: center;
+}
